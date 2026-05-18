@@ -1,4 +1,4 @@
-# Iris Flower Classification
+#CodSoft
 
 This project classifies Iris flowers into different species using Machine Learning techniques.
 
